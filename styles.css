@@ -1,0 +1,10 @@
+h1{
+    color: crimson;
+}
+
+table,tr,th,td{
+    border-style: double;
+    border-width: 5px;
+    border-color: blueviolet;
+    border-collapse: collapse;
+}
